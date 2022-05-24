@@ -1,0 +1,78 @@
+.container {
+    width: 50%;
+    margin: 20px auto 0px auto;
+    border: solid 2px;
+    border-color:red;
+    border-radius: 30px;
+    color: blue;
+
+}
+
+ul li {
+    list-style-type: none;
+    
+}
+
+ul {
+    border:solid 1px red; 
+    border-radius:20px;
+    margin: 30px;
+    font-family: cursive;
+    text-transform: capitalize;
+
+}
+
+
+li {
+    margin: 10px;
+    
+}
+
+input[type="text"] {
+    height: 40px;
+    width: 80%;
+    border-radius: 10px;
+    border: 1px solid red;
+    margin: 7px;
+    
+}
+
+input::placeholder {
+    color:darkgreen;
+
+}
+
+button {
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid red;
+    margin: 2px;
+    font-family: cursive;
+    color: darkgreen;
+
+}
+
+.removed {
+    color: black;
+    text-decoration: line-through;
+    background-color: gray;
+    empty-cells: hide;
+
+}
+
+
+h1 {
+    margin: 10px;
+    padding-left: 150px;
+    color: cyan;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+body {
+    background-image:url(https://i.ytimg.com/vi/zRP7DzwqZKs/maxresdefault.jpg)
+
+}
